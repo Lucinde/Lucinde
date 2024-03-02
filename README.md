@@ -3,7 +3,7 @@
 
 | Frontend: | Backend & Databases: |
 | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinej)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev) |
 
 
 | IDE & Editors: | Design: | Miscellaneous: |
