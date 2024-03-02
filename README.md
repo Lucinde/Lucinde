@@ -1,19 +1,24 @@
 ### Hi there 👋
 
 Frontend:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinej)](https://skillicons.dev)
 
 Backend & Databases:
+
 [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev)
 
 Editors:
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom)](https://skillicons.dev)
 
 Design:
-[![My Skills](https://skillicons.dev/icons?i=ai,ps&perline=3)](https://skillicons.dev)
 
-Divers:
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm,figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
+
+Miscellaneous:
+
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm,figma)](https://skillicons.dev)
 
 
 <!--
