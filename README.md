@@ -8,14 +8,11 @@ Backend & Databases:
 
 [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev)
 
-Editors:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom)](https://skillicons.dev)
-
-
-| Design: | Miscellaneous: |
-| -- | -- |
-| [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm)](https://skillicons.dev) |
+| Editors | Design: | Miscellaneous: |
+| --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom)](https://skillicons.dev)
+ | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm)](https://skillicons.dev) |
 
 
 <!--
