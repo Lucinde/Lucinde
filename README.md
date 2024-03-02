@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinej)](https://skillicons.dev)
-
-Backend & Databases:
-
-[![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev)
+| Frontend: | Backend & Databases: |
+| --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinej)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,py,mysql,postgres)](https://skillicons.dev) |
 
 
 | Editors | Design: | Miscellaneous: |
 | --- | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom)](https://skillicons.dev)
- | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,atom)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm)](https://skillicons.dev) |
 
 
 <!--
