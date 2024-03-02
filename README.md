@@ -14,6 +14,7 @@ Editors:
 
 
 | Design: | Miscellaneous: |
+| -- | -- |
 | [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bitbucket,github,npm)](https://skillicons.dev) |
 
 
