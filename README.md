@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-| Frontend: | Backend & Databases: |
+| Backend & Databases: | Frontend: |
 | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,mysql,postgres)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=java,laravel,php,mysql,postgres)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,alpinejs)](https://skillicons.dev) |
 
 
 | IDE & Editors: | Design: | Miscellaneous: |
